@@ -70,28 +70,6 @@
 .gallery-card3-image:hover{
   transform: scale(1.07);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .question-container {
   gap: var(--dl-space-space-unit);
   flex: 1;
